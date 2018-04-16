@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../Exp24/variation#1/exp24-variation1.js"],"names":["showSticky","hideSticky"],"mappings":";;AAAA,IAAIA,aAAa,IAAjB;AACA,IAAIC,aAAa,KAAjB","file":"exp24-variation1.js","sourcesContent":["let showSticky = 3000;\nlet hideSticky = 13200;"]}
